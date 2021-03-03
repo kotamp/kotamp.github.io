@@ -9,3 +9,7 @@
 + [d3-geo](https://github.com/d3/d3-geo#api-reference), [topojson](https://github.com/topojson/topojson)
 + [d3-color](https://github.com/d3/d3-color#api-reference), [d3-scale-chromatic](https://github.com/d3/d3-scale-chromatic#api-reference)
 + [d3-array - bin](https://github.com/d3/d3-array#api-reference)
++ [d3-brush - brushX](https://github.com/d3/d3-brush#api-reference)
+
+### react
++ hooks - [useState](https://reactjs.org/docs/hooks-reference.html#usestate), [useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect), [useRef](https://reactjs.org/docs/hooks-reference.html#useref)

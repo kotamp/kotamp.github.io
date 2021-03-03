@@ -12,4 +12,4 @@
 + [d3-brush - brushX](https://github.com/d3/d3-brush#api-reference)
 
 ### react
-+ hooks - [useState](https://reactjs.org/docs/hooks-reference.html#usestate), [useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect), [useRef](https://reactjs.org/docs/hooks-reference.html#useref)
++ hooks - [useState](https://reactjs.org/docs/hooks-reference.html#usestate), [useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect), [useRef](https://reactjs.org/docs/hooks-reference.html#useref), [useMemo](https://reactjs.org/docs/hooks-reference.html#usememo)
